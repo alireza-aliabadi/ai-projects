@@ -1,0 +1,3 @@
+[submodule "ai-powered-document-intelligence-platform"]
+	path = ai-powered-document-intelligence-platform
+	url = git@github.com:alireza-aliabadi/ai-powered-document-intelligence-platform.git
